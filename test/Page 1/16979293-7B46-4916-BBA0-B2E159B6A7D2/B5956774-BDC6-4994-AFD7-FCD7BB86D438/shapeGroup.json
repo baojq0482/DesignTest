@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "049ED768-22BF-4415-9F98-7F1CDC2B43BC",
+  "do_objectID": "B5956774-BDC6-4994-AFD7-FCD7BB86D438",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 22,
-    "width": 22,
-    "x": 76,
-    "y": 88
+    "height": 154,
+    "width": 154,
+    "x": 149,
+    "y": 124
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,10 +29,10 @@
   "layers": [
     {
       "class": "oval",
-      "id": "275E6414-26F6-4EAB-B6CB-65FB0D91F51E"
+      "id": "856427E1-73E3-4378-B2FA-112F4367DA4E"
     }
   ],
-  "name": "Oval Copy 2",
+  "name": "Oval",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -83,15 +83,15 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 22,
+            "constant": 154,
             "enabled": 1,
-            "modelID": "constraint_761457cb-e9b7-4dbb-acbc-d716d61ab88e",
+            "modelID": "constraint_316297fe-6ed1-4d40-b5c0-bcdda18197b0",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 22
+            "multiplier": 154
           },
           "automatic": 1,
-          "modelID": "viewConstraints_25a31c65-4365-4f18-ad48-fd1fb386bed6",
+          "modelID": "viewConstraints_d02fa873-8329-42bd-ad37-20baf16a8f87",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1

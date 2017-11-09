@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "AEDACCBF-2FD5-438B-BA51-E439B00B7C57",
+  "do_objectID": "16979293-7B46-4916-BBA0-B2E159B6A7D2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,10 +20,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 204,
-    "width": 224,
-    "x": 469,
-    "y": 239
+    "height": 654,
+    "width": 654,
+    "x": 381,
+    "y": 190
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -43,39 +43,7 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "E9C9BC03-16F9-4D5A-B38B-2A8E77623FA8"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "45570BC7-F105-46E3-B272-CB9A9C936E56"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B0955E95-411F-42C8-A00E-A6CBB632E715"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "21532A40-BD08-49C6-8138-5622538535A7"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "CD7AF86B-AEE5-4FD8-A881-38544E34A9D7"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C5CFB21B-6874-486A-A440-15CD4714EC50"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "279E1426-02D8-4B88-B846-9B4B5CFCF8EB"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "743DF5F7-1301-42FA-A53F-360DB8F3425E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "049ED768-22BF-4415-9F98-7F1CDC2B43BC"
+      "id": "B5956774-BDC6-4994-AFD7-FCD7BB86D438"
     }
   ],
   "name": "r",

@@ -15,7 +15,7 @@
     ]
   },
   "colorSpace": 0,
-  "do_objectID": "6e2affc0-c3b8-11e7-8b32-eb7cb6f0250e",
+  "do_objectID": "5B247E1C-6979-4665-91FE-E43F5E018DD4",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
   "foreignSymbols": [
@@ -26,9 +26,9 @@
     ]
   },
   "meta": {
-    "appVersion": "47.1.0",
+    "appVersion": "47.1",
     "build": 45422,
-    "commit": "c871c6c3fa8a2bc8ee8592fd0f4db2b9a32687dc",
+    "commit": "d5cff89adfb6ffc45ca7b7d58d65cada3f63f39a",
     "version": 95
   },
   "pages": [
