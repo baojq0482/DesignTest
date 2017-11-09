@@ -43,11 +43,15 @@
   "layers": [
     {
       "class": "shapeGroup",
+<<<<<<< HEAD:haha/Page 1/B0B94604-85EB-4CC2-95D0-FACF6BEA91DE/artboard.json
       "id": "9BD5801B-145B-48C1-B1F3-255944802EF3"
     },
     {
       "class": "shapeGroup",
       "id": "E07ED2AE-EE27-41D0-B73C-A1C636555556"
+=======
+      "id": "B5956774-BDC6-4994-AFD7-FCD7BB86D438"
+>>>>>>> parent of 7a966c4... 修改测试:test/Page 1/16979293-7B46-4916-BBA0-B2E159B6A7D2/artboard.json
     }
   ],
   "name": "r",
